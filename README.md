@@ -1,4 +1,4 @@
-# Nexus a proffesional networking platform
+# Pronet a proffesional networking platform
 
 A full-stack professional networking platform inspired by LinkedIn, where users can connect, share posts, interact with content, and manage their professional profiles.
 
